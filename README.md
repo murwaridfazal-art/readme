@@ -1,6 +1,6 @@
 <!-- Animated Welcome Title -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2DD4BF&width=435&lines=Welcome+to+my+GitHub+profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2DD4BF&width=435&lines=Murwarid+Fazal" alt="Typing SVG" />
 </p>
 
 ### About me
